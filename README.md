@@ -6,5 +6,5 @@
 ![Contact](https://user-images.githubusercontent.com/59916393/89105322-bb60d380-d43d-11ea-9335-d531084d6f69.JPG)
 
 
-For More Info Please [Click here](https://silly-bohr-37aea5.netlify.app)
+For More Info Please [Click here!](https://silly-bohr-37aea5.netlify.app)
 
